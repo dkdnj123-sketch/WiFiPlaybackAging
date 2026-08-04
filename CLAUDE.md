@@ -86,4 +86,4 @@ WiFiPlaybackAging/
 - **아직 실기기(STB) 4대로는 검증하지 않음.** 실기기 테스트 시 주의: iperf3-NetSentry가 이미
   라이브 48h 테스트 중일 수 있는 기기를 건드리지 않도록, 다른 기기/포트로 먼저 병행 검증할 것
   (관련 원칙은 `../CLAUDE.md`가 아니라 사용자 메모리의 "안전한 실기기 테스트 기법" 참고).
-- git 저장소 미생성 (사용자 확인 후 진행 예정).
+- git: `dkdnj123-sketch/WiFiPlaybackAging` (신규 repo, public), branch `master`, 초기 커밋 push 완료.
