@@ -1,0 +1,19 @@
+{
+    "Port": 5201,
+    "PcExe": "iperf\\iperf3.exe",
+    "SaveDir": "D:\\LogFile\\WiFi_PlaybackAging",
+    "BandwidthMbps": "",
+    "SplitMode": "time",
+    "SplitValue": 60,
+    "ReconnectFastThresholdSec": 30,
+    "RetrWarnCount": 50,
+    "StallMbps": 1.0,
+    "StatusLogIntervalMin": 10,
+    "LogDisplayOn": true,
+    "WindowWidth": 1180,
+    "WindowHeight": 760,
+    "WindowLeft": -1,
+    "WindowTop": -1,
+    "WindowState": "Normal",
+    "SplitDistance": 400
+}

@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+error_log/
+log/
+*.lnk
+_runtime_config.json
